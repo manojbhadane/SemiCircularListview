@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\Android_Studio_SDK\sdk\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="D:\Best_Demos\NewCircle\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0_c76e145d6bb26602eea12fad8f4cf0814a03dd79.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Best_Demos\NewCircle\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\19.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28">
+        <dex dex="D:\Best_Demos\NewCircle\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-19.1.0_e27e86ebc57cfb052b31947a57e78ff44c784932.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Best_Demos\NewCircle\app\libs\libspen22.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ac60c46bda8d6697d764434bf3b6f442a6a4e687">
+        <dex dex="D:\Best_Demos\NewCircle\app\build\intermediates\pre-dexed\debug\libspen22_2f5f9b7d4484f9e9fedc100adb2cd0b9243056b7.jar" />
+    </item>
+
+</items>
